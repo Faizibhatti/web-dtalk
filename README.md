@@ -40,6 +40,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-xl-5 col-md-5 ">
+                      
                             <div class="header_left">
                                 <p>Welcome to Deaf Talk</p>
                             </div>
