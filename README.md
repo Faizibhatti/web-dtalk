@@ -77,7 +77,7 @@
                             <div class="col-xl-3 col-lg-2">
                                 <div class="logo">
                                     <a href="index.html">
-                                        <img src="img/banner/app_logo.png" alt="">
+                                        <img src="img/banner/app_logo.png" style="width:90px; height:80px;" alt="">
                                     </a>
                                 </div>
                             </div>
